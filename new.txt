@@ -1,0 +1,4 @@
+Karpyza Veronika
+age 39
+pets: Tisha, Max, Wiskey, Nikita, Stas, Gena, Turbo, Dush
+salary 1500

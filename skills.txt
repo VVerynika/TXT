@@ -1,0 +1,8 @@
+Databases: PostgreSQL,
+API testing: Postman,
+Basic knowledge: HTML/CSS, Python, JS
+Tools: Chrome DevTools,
+Methodology: Waterfall/Agile,
+Management tools: Jira,
+Documentation: check list, test case, bug report
+Testing: functional, regression, unit, UAT, cross browser, WEB/mobile
